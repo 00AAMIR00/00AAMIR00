@@ -12,7 +12,7 @@
 
 ### 👋 Hi, I’m **Mohd Aamir**  
 ### 👀 I’m interested in **Full Stack Development**  
-### 🌱 Currently learning **Java, DSA & MERN Stack**  
+### 🌱 Currently learning **Java, & DSA**  
 ### 🤝 Looking to collaborate on real-world web development projects  
 ### 📫 Reach me at: **mohdaamir0360@gmail.com**  
 ### 💬 Ask me anything!  
