@@ -37,8 +37,9 @@
 
 ## 🎨 Aesthetic Developer Banner
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0d/bc/3f/0dbc3f4f4eb2baf0db219c2f478255d4.gif" width="500">
+  <img src="/mnt/data/nightlife.gif" width="500">
 </p>
+
 
 ---
 
