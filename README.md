@@ -35,7 +35,7 @@
 
 ---
 
-## 🎨 Aesthetic Developer Banner
+
 <p align="center">
   <img src="nightlife.gif" width="500">
 </p>
